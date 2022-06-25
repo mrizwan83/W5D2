@@ -24,6 +24,6 @@ def physics_no_chemistry
         WHERE
           subject = 'Chemistry'
       )
-      ORDER BY yr DESC;
+    ORDER BY yr DESC;
   SQL
 end
